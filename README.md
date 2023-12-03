@@ -19,7 +19,8 @@ Below there is a blog Medium  post that gives detail description of the project 
 <img src="images/currency_converter_1.png" alt="Screenshot"><br>
 
 # Author
-Abstaina Ephraim  <padcliff88@gmail.com>
+
+Abstaina Ephraim   <padcliff88@gmail.com>
   
 [Facebook] (https://www.facebook.com/abstaina/)<br>
 [Twitter] (https://twitter.com/abstaina_eth)<br>
